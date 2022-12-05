@@ -1,4 +1,4 @@
-
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 ![Image](https://github.com/habib-gm/habib-gm/blob/main/assets/Image.png)
 <h1 align="center">Hi 👋, I'm Habib Gemmechu</h1>
 <h3 align="center">A passionate developer and AI student from Ethiopia</h3>
@@ -28,3 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habib-gm&show_icons=true&locale=en&layout=compact" alt="habib-gm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habib-gm&show_icons=true&locale=en" alt="habib-gm" /></p>
+
+<!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="habib-gemmechu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://et.linkedin.com/in/habib-gemmechu?trk=profile-badge">Habib Gemmechu</a></div> -->
+              
